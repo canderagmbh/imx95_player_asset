@@ -89,6 +89,7 @@ Licensee shall not, and shall not permit any third party to:
 - use the Player to execute any assets other than the Assets provided by CANDERA;
 - use the Demo Software for production, commercial, or product development purposes;
 - modify, adapt, reverse engineer, decompile, or otherwise attempt to derive the source code of the Demo Software, except to the extent permitted by mandatory law.
+
 All rights, title, and interest in and to the Demo Software, including all intellectual property rights, remain exclusively with CANDERA GmbH. No rights are granted to Licensee other than those expressly set forth herein.
 
 THE DEMO SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE”, WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR ERROR-FREE OPERATION. CANDERA SHALL HAVE NO LIABILITY WHATSOEVER ARISING OUT OF OR IN CONNECTION WITH THE USE OF THE DEMO SOFTWARE.
