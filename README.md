@@ -2,8 +2,8 @@
 
 This is a high-fidelity Digital Twin demonstration of a 3D SUV for Automotive In-Vehicle Information Display (IVI) systems. This demo runs on the **Toradex i.MX 95 Verdin Evaluation Kit** with an FHD display supporting touch control, developed using **Candera CGI Studio** and based on the **NXP BSP**.
 
-![Demo Preview](docs/images/demo-preview.png)
-*Screenshot of the 3D SUV Digital Twin Demo*
+![Demo Preview](IMG_1277.PNG)
+*Photo of the 3D SUV Digital Twin Demo*
 
 ---
 
